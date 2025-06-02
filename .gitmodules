@@ -1,0 +1,12 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/abolfazljazak/nestjs-todo-microservice-gateway.git
+[submodule "user"]
+	path = user
+	url = https://github.com/abolfazljazak/nestjs-todo-microservice-user.git
+[submodule "token"]
+	path = token
+	url = https://github.com/abolfazljazak/nestjs-todo-microservice-token.git
+[submodule "task"]
+	path = task
+	url = https://github.com/abolfazljazak/nestjs-todo-microservice-task.git
